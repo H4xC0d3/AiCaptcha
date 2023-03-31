@@ -30,4 +30,4 @@ Telegram : [AiCaptcha](https://t.me/aicaptcha)
 
 ### Contact
 Telegram : [Mr.Abood](https://t.me/O0O0I)\
-If you need a trial version, contact support.
+If you need a free trial contact support.
