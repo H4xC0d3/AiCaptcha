@@ -26,5 +26,8 @@ recaptcha_result = solver.ReCaptchaV3(type="recaptchav3_type(enterprise/normal)"
 print(recaptcha_result.dict)
 ```
 
+### Channel l
+Telegram : [AiCaptcha](https://t.me/aicaptcha)
+
 ### Contact
 Telegram : [Mr.Abood](https://t.me/O0O0I)
