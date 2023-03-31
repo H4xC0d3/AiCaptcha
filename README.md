@@ -1,4 +1,3 @@
-# Under Development
 # AiCaptcha
 Python library for solving various types of captcha including Hcaptcha and ReCaptchaV3(enterprise/normal).
 
