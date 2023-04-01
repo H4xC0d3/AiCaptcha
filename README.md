@@ -28,6 +28,6 @@ print(recaptcha_result.dict)
 ### Channel
 Telegram : [AiCaptcha](https://t.me/aicaptcha)
 
-### Contact
+### Support
 Telegram : [Mr.Abood](https://t.me/O0O0I)\
 If you need a free trial contact support.
