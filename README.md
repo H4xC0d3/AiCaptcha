@@ -26,7 +26,7 @@ recaptchav3_result = solver.ReCaptchaV3(type="recaptchav3_type(enterprise/normal
 print(recaptchav3_result.token)
 
 # Solve a audio captcha
-audio_captcha_result = solver.Audio(audio="your_audio_filename_or_content", numbers_sensitivity=False)
+audio_captcha_result = solver.Audio(audio="audio_filename_or_content", numbers_sensitivity=False)
 print(audio_captcha_result.text)
 print(audio_captcha_result.confidence)
 ```
