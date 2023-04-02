@@ -22,8 +22,8 @@ print(hcaptcha_result.token)
 print(hcaptcha_result.key)
 
 # Solve a ReCaptchaV3 (enterprise/normal)
-recaptcha_result = solver.ReCaptchaV3(type="recaptchav3_type(enterprise/normal)", site_key="recaptchav3_site_key_here", page_url="recaptchav3_page_url_here", action="recaptchav3_action_here")
-print(recaptcha_result.token)
+recaptchav3_result = solver.ReCaptchaV3(type="recaptchav3_type(enterprise/normal)", site_key="recaptchav3_site_key_here", page_url="recaptchav3_page_url_here", action="recaptchav3_action_here")
+print(recaptchav3_result.token)
 
 # Solve a audio captcha
 audio_captcha_result = solver.Audio(audio="your_audio_filename_or_content", numbers_sensitivity=False)
