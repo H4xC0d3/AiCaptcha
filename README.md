@@ -36,4 +36,4 @@ Telegram : [AiCaptcha](https://t.me/aicaptcha)
 
 ### Support
 Telegram : [Mr.Abood](https://t.me/O0O0I)\
-If you need a free trial contact support.
+for free trial contact support.
