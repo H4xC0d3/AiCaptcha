@@ -1,5 +1,5 @@
 # AiCaptcha
-Python library for solving various types of captcha including Hcaptcha, ReCaptchaV3(enterprise/normal) and Audio.
+Python library for solving various types of captcha including Hcaptcha, ReCaptchaV3(enterprise/normal), ObjectRecognition and Audio.
 
 ## Installation
 To install the library, simply run the following command:
@@ -26,9 +26,13 @@ recaptchav3_result = solver.ReCaptchaV3(type="recaptchav3_type(enterprise/normal
 print(recaptchav3_result.token)
 
 # Solve a audio captcha
-audio_captcha_result = solver.Audio(audio="audio_filename_or_content", numbers_sensitivity=False)
+audio_captcha_result = solver.Audio(audio="audio_filename_or_content_or_url", numbers_sensitivity=False)
 print(audio_captcha_result.text)
 print(audio_captcha_result.confidence)
+
+# Solve the captcha specifying the name of the objects.
+object_recognition_captcha_result = solver.ObjectRecognition(image="image_filename_or_content_or_url")
+print(object_recognition_captcha_result.results)
 ```
 
 ### Channel
