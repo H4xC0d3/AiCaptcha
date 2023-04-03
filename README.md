@@ -30,8 +30,8 @@ audio_captcha_result = solver.Audio(audio="audio_filename_or_content_or_url", nu
 print(audio_captcha_result.text)
 print(audio_captcha_result.confidence)
 
-# Solve the captcha specifying the name of the objects.
-object_recognition_captcha_result = solver.ObjectRecognition(image="image_filename_or_content_or_url")
+# Solve the captcha specifying the name of the objects
+object_recognition_captcha_result = solver.ObjectRecognition(image="image_filename_or_content_or_url", max_results=5)
 print(object_recognition_captcha_result.results)
 ```
 
@@ -39,5 +39,5 @@ print(object_recognition_captcha_result.results)
 Telegram : [AiCaptcha](https://t.me/aicaptcha)
 
 ### Support
-Telegram : [Mr.Abood](https://t.me/O0O0I)\
+Telegram : [support](https://t.me/O0O0I)\
 for free trial contact support.
