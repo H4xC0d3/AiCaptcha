@@ -4,7 +4,7 @@ Python library for solving various types of captcha including Hcaptcha, ReCaptch
 ## Installation
 To install the library, simply run the following command:
 ``` 
-pip install aicaptcha
+pip install aicaptcha==1.0.4
 ```
 ## Usage
 To use the library, import the AiCaptcha class from the aicaptcha module, create an instance of the class with your API key, and call the appropriate method to solve the captcha.
