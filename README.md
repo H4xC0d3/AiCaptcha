@@ -39,5 +39,5 @@ print(object_recognition_captcha_result.results)
 Telegram : [AiCaptcha](https://t.me/aicaptcha)
 
 ### Support
-Telegram : [support](https://t.me/O0O0I)\
+Telegram : [support](https://t.me/AiCaptchaSupport)\
 for free trial contact support.
