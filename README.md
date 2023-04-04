@@ -40,4 +40,4 @@ Telegram : [AiCaptcha](https://t.me/aicaptcha)
 
 ### Support
 Telegram : [support](https://t.me/AiCaptchaSupport)\
-for free API key contact support.
+For free API key contact support.
