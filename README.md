@@ -35,9 +35,13 @@ object_recognition_captcha_result = solver.ObjectRecognition(image="image_filena
 print(object_recognition_captcha_result.results)
 ```
 
+### Free API Key
+``` txt
+a433a493-bc2c-41a7-baab-fb898442d2ed
+```
+
 ### Channel
 Telegram : [AiCaptcha](https://t.me/aicaptcha)
 
 ### Support
-Telegram : [support](https://t.me/AiCaptchaSupport)\
-for free API key contact support.
+Telegram : [support](https://t.me/AiCaptchaSupport)
