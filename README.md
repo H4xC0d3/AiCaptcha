@@ -1,5 +1,5 @@
 # AiCaptcha
-Python library for solving various types of captcha including Hcaptcha, ReCaptchaV3(enterprise/normal), ObjectRecognition and Audio.
+Python library utilizes AiCaptcha's API to solve captcha challenges with the power of AI. With our advanced technology, you can effortlessly handle various types of captcha challenges without any hassle. 
 
 ## Installation
 To install the library, simply run the following command:
