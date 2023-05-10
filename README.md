@@ -4,7 +4,7 @@ Python library utilizes AiCaptcha's API to solve captcha challenges with the pow
 ## Installation
 To install the library, simply run the following command:
 ``` 
-pip install aicaptcha==1.0.4
+pip install aicaptcha
 ```
 
 ## Services
