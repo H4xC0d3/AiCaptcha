@@ -1,4 +1,4 @@
-# AiCaptcha
+# AiCaptcha (Beta)
 Python library utilizes AiCaptcha's API to solve captcha challenges with the power of AI. With our advanced technology, you can effortlessly handle various types of captcha challenges without any hassle. 
 
 ## Installation
