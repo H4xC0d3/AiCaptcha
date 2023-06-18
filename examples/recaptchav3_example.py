@@ -12,6 +12,6 @@ print("captcha token:", recaptchav3_token)
 result = requests.get("https://recaptcha-demo.appspot.com/recaptcha-v3-verify.php?action=examples/v3scores&token={}".format(recaptchav3_token)).json()
 
 if result["success"]:
-	print("Done solve captcha!")
+    print("Done solve captcha!")
 else:
-	print("Captcha could not be solved!")
+    print("Captcha could not be solved!")
