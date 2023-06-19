@@ -1,5 +1,5 @@
 # AiCaptcha (Beta)
-Python library utilizes AiCaptcha's API to solve captcha challenges with the power of AI. With our advanced technology, you can effortlessly handle various types of captcha challenges without any hassle. 
+Python library utilizes AiCaptcha's API to solve captcha challenges with the power of AI. With our advanced technology, you can effortlessly handle various types of captcha challenges without any hassle.
 
 ## Installation
 To install the library, simply run the following command:
@@ -73,5 +73,4 @@ a433a493-bc2c-41a7-baab-fb898442d2ed
 ```
 
 ## 
-Channel: [AiCaptcha](https://t.me/aicaptcha)\
-Support: [support](https://t.me/AiCaptchaSupport)
+[![Telegram](https://img.shields.io/badge/Telegram-AiCaptcha-red?style=for-the-badge&logo=Telegram)](https://t.me/aicaptcha)
