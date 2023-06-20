@@ -16,6 +16,11 @@ pip install aicaptcha
 ## Usage
 To use the library, import the AiCaptcha class from the aicaptcha module, create an instance of the class with your API key, and call the appropriate method to solve the captcha.
 
+## Free API Key
+``` txt
+a433a493-bc2c-41a7-baab-fb898442d2ed
+```
+
 ## Examples
 ### hCaptcha
 HCaptcha is a type of captcha that asks users to select certain images that match a given description. To solve an HCaptcha using the AiCaptcha library, you can use the `Hcaptcha` method and pass in the `site_key` and `page_url` parameters, as well as your user agent string. Here's an example:
@@ -67,10 +72,7 @@ object_recognition_captcha_result = solver.ObjectRecognition(image="image_filena
 print(object_recognition_captcha_result.results)
 ```
 
-## Free API Key
-``` txt
-a433a493-bc2c-41a7-baab-fb898442d2ed
-```
-
 ## 
 [![Telegram](https://img.shields.io/badge/Telegram-AiCaptcha-red?style=for-the-badge&logo=Telegram)](https://t.me/aicaptcha)
+
+🌟 Star the Repository! 🌟
